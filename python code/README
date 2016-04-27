@@ -1,0 +1,14 @@
+
+EXECUTING THE PROGRAMS
+
+ALIEN TILES
+
+AlienTiles.py -Size (works only for 3)  -InitialState -GoalState -Heuristic F.
+
+GRAPHIC
+
+Just run graph.py
+
+BLOCKSWORLD
+
+blocksworld -Heuristic Function (1->WRONG POSITIONS, 2 -> MANHATTAN DIST.)
